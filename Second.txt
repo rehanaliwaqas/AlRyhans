@@ -1,3 +1,3 @@
 Creating second.txt
-
+New changes in new repository
 Making changes in second.txt 
